@@ -17,7 +17,7 @@
 
 ---
 
-**快速:** Yarn 会缓存每个下载过的包，所以再次使用时无需重复下载。包的下载是并行的，所以安装速度更快。
-**Reliable:** Using a detailed, but concise, lockfile format, and a deterministic algorithm for installs, Yarn is able to guarantee that an install that worked on one system will work exactly the same way on any other system.
+**快速:** Yarn 会缓存每个下载过的包，所以再次使用时无需重复下载。包的下载是并行的，所以安装速度更快。  
+**可靠:** Using a detailed, but concise, lockfile format, and a deterministic algorithm for installs, Yarn is able to guarantee that an install that worked on one system will work exactly the same way on any other system.
 
 **Secure:** Yarn uses checksums to verify the integrity of every installed package before its code is executed.
