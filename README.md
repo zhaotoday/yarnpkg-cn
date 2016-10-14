@@ -21,3 +21,35 @@
 **安全:** 在每个已安装包的代码执行之前，Yarn 使用校验和来校验包的完整性。  
 **可靠:** Yarn 的安装使用详细而简洁的锁文件格式和确定性算法，能保证在不同系统上无差异的工作。
 
+# 翻译工作
+## 目录
+* [快速开始](getting-started/getting-started.md)
+  * [安装](getting-started/installation.md)
+  * [使用](getting-started/usage.md)
+* [Yarn工作流程](the-yarn-workflow/yarn-workflow.md)
+  * [创建项目](the-yarn-workflow/creating-a-project.md)
+  * [管理依赖](the-yarn-workflow/managing-dependencies.md)
+  * [安装依赖](the-yarn-workflow/installing-dependencies.md)
+  * [版本控制](the-yarn-workflow/version-control.md)
+* [CLI 命令]()(*暂时没有移植文章*)
+* [从npm迁移](migrating-from-npm-client/migrating-from-npm.md)
+* [创建包](creating-a-package/creating-a-package.md)
+  * [发布包](creating-a-package/publishing-a-package.md)
+* [依赖和版本](dependencies-versions/dependencies.md)
+  * [依赖类型](dependencies-versions/dependency-types.md)
+  * [依赖版本](dependencies-versions/dependency-versions.md)
+* [配置](configuration/configuration.md)
+  * [package.json](configuration/package-json.md)
+  * [yarn.lock](configuration/yarn-lock.md)
+* [Yarn组织](yarn-organization/index.md)
+  * [代码规范](yarn-organization/code-of-conduct.md)
+  * [贡献](yarn-organization/contributing.md)
+  * [翻译](yarn-organization/translations.md)
+  * [发布进程](yarn-organization/release-process.md)
+  * [管理](yarn-organization/governance.md)
+
+***注意***
+* 参与翻译的朋友们，请在issues注明翻译的文章标题。
+* 每个md文件的内容来源于相对应的[yarn官方GitHub文档](https://github.com/yarnpkg/website/tree/master/en/docs)
+* 文档目录结构与[yarn官方网站文档](https://yarnpkg.com/en/docs/)相对应
+
