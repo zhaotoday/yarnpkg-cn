@@ -1,5 +1,5 @@
 ## 翻译计划
-第一期的翻译计划计划是把网站的首页翻译出来，然后上线到 yarnpkg.cn。
+一期的翻译计划是把 yarnpkg.com 网站的首页翻译出来，然后上线到 yarnpkg.cn。
 
 <p align="center">
   <a href="https://yarnpkg.com/">
