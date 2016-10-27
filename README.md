@@ -1,3 +1,6 @@
+## 翻译计划
+第一期的翻译计划计划是把网站的首页翻译出来，然后上线到 yarnpkg.cn。
+
 <p align="center">
   <a href="https://yarnpkg.com/">
     <img alt="Yarn" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" width="546">
