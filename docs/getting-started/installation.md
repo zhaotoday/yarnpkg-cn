@@ -1,0 +1,1 @@
+[翻译地址](https://yarnpkg.com/en/docs/install)
