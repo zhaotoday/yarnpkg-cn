@@ -1,6 +1,10 @@
 ## 翻译计划
 一期的翻译计划是把 yarnpkg.com 网站的首页翻译出来，然后上线到 yarnpkg.cn。
 
+## 文档规范
+https://github.com/mzlogin/chinese-copywriting-guidelines  
+https://github.com/ruanyf/document-style-guide
+
 <p align="center">
   <a href="https://yarnpkg.com/">
     <img alt="Yarn" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" width="546">
